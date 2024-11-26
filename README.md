@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Ankit</h1>
-<h3></h3>A python web developer & Machine learning pantomath from India</h3>
+<h3 align = "center">A python web developer & Machine learning pantomath from India</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya ankit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adityaankit17) 
